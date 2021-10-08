@@ -3,3 +3,4 @@ Python
 Django
 Pillow
 django-widget-tweaks
+pysqlite3
