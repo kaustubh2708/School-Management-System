@@ -1,5 +1,5 @@
-asgiref
+Modules that you should have installed in your system
+Python
 Django
+Pillow
 django-widget-tweaks
-pytz
-sqlparse
