@@ -1,5 +1,6 @@
-# Quiz-Assignment
-## Navigus Assignment Submission
+# School Management System
+## Details to run your code
+
 
 Please make sure that all the modules mentioned in requirments.txt are already installed in your system.
 or you can run this command pip install check-requirements-txt
