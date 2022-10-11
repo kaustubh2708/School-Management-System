@@ -1,5 +1,5 @@
 Modules that you should have installed in your system
-Python
+Python #kindly specify your python version
 Django
 Pillow
 django-widget-tweaks
