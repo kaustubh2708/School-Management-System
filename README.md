@@ -10,7 +10,7 @@ After installing all the commands you need to run the following commands in cmd 
 2) py manage.py migrate
 3) py manage.py createsuperuser
       ((#In this Step you will need to enter a username email id and password for all the admin rights of the website then you can login in the teacher portal with the same credentials))
-5) py manage.py runserver
+5) py manage.py runservers
 
 
 # Screenshots of the assignment
